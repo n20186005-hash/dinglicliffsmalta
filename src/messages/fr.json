@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "title": "Dingli Cliffs, Malte — Attractions : Point le Plus Haut & Coucher de Soleil",
+    "description": "Visitez Dingli Cliffs (Ħad-Dingli), le point le plus haut de Malte à 253 m. Vues panoramiques sur la Méditerranée, spots de coucher de soleil, accès gratuit, lignes de bus et restaurants locaux. Que voir à Malte : planifiez votre visite."
+  },
+  "header": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "backToHome": "Retour à l'accueil"
+  },
+  "hero": {
+    "title": "Dingli Cliffs",
+    "subtitle": "Attraction naturelle · Malte",
+    "rating": "4.5",
+    "reviewCount": "9 701 avis",
+    "type": "Falaises naturelles",
+    "openMaps": "Voir sur Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
+  },
+  "intro": {
+    "title": "Découvrez les Dingli Cliffs",
+    "description": "Les Dingli Cliffs sont le point naturel le plus haut de Malte, s'élevant à environ 253 mètres au-dessus du niveau de la mer. Situées dans l'ouest de l'île près du village de Dingli, elles offrent une vue spectaculaire sur la mer et la côte. Ce lieu est célèbre pour son panorama, ses couchers de soleil et ses zones naturelles protégées.",
+    "visitGuide": {
+      "title": "Conseils de visite",
+      "items": [
+        "La meilleure période pour visiter est le printemps ou l'automne, quand le temps est agréable.",
+        "En semaine au coucher du soleil, choisissez le moment avant le coucher pour les meilleures vues.",
+        "Portez des chaussures confortables pour marcher sur les sentiers naturels.",
+        "Emportez de l'eau et une protection solaire, surtout en été."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Points forts",
+      "items": [
+        "Point le plus haut de Malte",
+        "Panorama maritime à couper le souffle",
+        "Zone protégée Natura 2000",
+        "Idéal pour l'observation des étoiles"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "À propos des Dingli Cliffs",
+    "sections": [
+      {
+        "id": "geography",
+        "title": "Géographie & Altitude",
+        "content": "Les Dingli Cliffs se trouvent dans le sud-ouest de Malte, à environ 253 mètres au-dessus du niveau de la mer. C'est le point le plus haut de l'île, offrant de vastes vues sur la mer Méditerranée."
+      },
+      {
+        "id": "ecology",
+        "title": "Écologie & Biodiversité",
+        "content": "Les falaises font partie de la zone protégée Natura 2000. Elles abritent des plantes indigènes et des espèces d'oiseaux migrateurs. Cette zone est importante pour la biodiversité de Malte."
+      },
+      {
+        "id": "cultural",
+        "title": "Signification culturelle",
+        "content": "Les Dingli Cliffs ont une signification culturelle dans la mythologie maltaise. On dit que l'île de Filfla, située au large, était jadis occupée par des géants dans les légendes anciennes."
+      },
+      {
+        "id": "protection",
+        "title": "Protection & Conservation",
+        "content": "Les falaises sont gérées par l'Autorité pour l'environnement et les ressources (ERA) et figurent dans l'inventaire national des biens culturels (NICPMI). Elles sont protégées contre un développement excessif."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informations de base",
+    "officialName": "Nom officiel",
+    "officialNameValue": "Dingli Cliffs",
+    "type": "Type d'attraction",
+    "typeValue": "Falaises naturelles / Hauteurs",
+    "country": "Pays",
+    "countryValue": "Malte",
+    "city": "Ville / Village",
+    "cityValue": "Dingli (près de Mdina)",
+    "googleRating": "Note Google",
+    "googleRatingValue": "4.5 (9 701)",
+    "address": "Adresse",
+    "addressValue": "V92P+V45, Ħad-Dingli, Malte",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "V92P+V45 Ħad-Dingli, Malte",
+    "phone": "Téléphone",
+    "phoneValue": "+356 2145 6060"
+  },
+  "hours": {
+    "title": "Heures de visite",
+    "park": "Accès",
+    "parkTime": "Ouvert 24h sur 24, toute l'année",
+    "bestTime": "Meilleure période de visite",
+    "bestTimeSpring": "Printemps : Temps agréable, plantes en fleurs",
+    "bestTimeSummer": "Été : Plus frais le matin et au coucher du soleil, évitez la chaleur de midi",
+    "bestTimeAutumn": "Automne : Temps doux, idéal pour marcher",
+    "bestTimeWinter": "Hiver : Moins de touristes, vues nature préservées",
+    "tip": "L'entrée est gratuite. Nous recommandons une visite en semaine pour l'observation des étoiles ou les couchers de soleil."
+  },
+  "tickets": {
+    "title": "Informations d'entrée",
+    "park": "Visite du site",
+    "parkPrice": "Gratuit pour le public",
+    "parking": "Stationnement",
+    "parkingPrice": "Parking public gratuit à proximité",
+    "guided": "Visites guidées",
+    "guidedPrice": "Disponibles auprès des opérateurs touristiques locaux"
+  },
+  "transport": {
+    "title": "Comment venir",
+    "fromCenter": "Du centre (Mdina/Rabat)",
+    "fromCenterDesc": "Distance d'environ 3 km de Mdina. Accessible par bus 201 ou 202, ou en voiture privée.",
+    "fromStation": "De la gare routière",
+    "fromStationDesc": "Ligne 201 depuis Valletta/Blaquière ou 202 depuis Sliema/Rabat.",
+    "fromAirport": "De l'aéroport",
+    "fromAirportDesc": "Distance d'environ 12 km. Un taxi ou une voiture de location est recommandé pour rejoindre Dingli.",
+    "publicTransport": "Transports publics",
+    "publicTransportDesc": "Les lignes 201 et 202 s'arrêtent près du village de Dingli.",
+    "walking": "À pied",
+    "walkingDesc": "Marchez du village de Dingli jusqu'aux falaises en quelques minutes.",
+    "driving": "En voiture",
+    "drivingDesc": "Stationnement disponible près des falaises."
+  },
+  "route": {
+    "title": "Itinéraire recommandé",
+    "overview": "Marchez le long des falaises et profitez des paysages naturels.",
+    "steps": [
+      "Démarrez du parking près du centre du village de Dingli",
+      "Empruntez le sentier principal le long des falaises",
+      "Atteignez le point avec la meilleure vue sur la mer Méditerranée",
+      "Explorez la zone de Maqluba (effondrement karstique)",
+      "Terminez par un coucher de soleil inoubliable"
+    ]
+  },
+  "photoSpots": {
+    "title": "Meilleurs spots photo",
+    "spots": [
+      {
+        "title": "Point de vue principal",
+        "description": "L'endroit où vous pouvez prendre les photos les plus classiques des falaises et de la mer.",
+        "location": "Centre principal",
+        "image": "/gallery/dingli-cliffs (1).jpg"
+      },
+      {
+        "title": "Point de coucher de soleil de Dingli",
+        "description": "Endroit idéal pour l'observation des étoiles et le calme de la nature.",
+        "location": "À l'extérieur du village",
+        "image": "/gallery/dingli-cliffs (2).jpg"
+      },
+      {
+        "title": "Doline de Maqluba",
+        "description": "Phénomène géologique unique près de Dingli.",
+        "location": "Près des Dingli Cliffs",
+        "image": "/gallery/dingli-cliffs (3).jpg"
+      },
+      {
+        "title": "Panorama depuis les hauteurs",
+        "description": "Les pentes rocheuses et la mer bleue au loin.",
+        "location": "Sentier des falaises",
+        "image": "/gallery/dingli-cliffs (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerie photos",
+    "subtitle": "Les plus hautes vues de Malte",
+    "captions": [
+      "Panorama des falaises",
+      "Mer Méditerranée vue d'en haut",
+      "Sentier en zone naturelle",
+      "Doline de Maqluba",
+      "Côte ouest de Malte",
+      "Plantes indigènes sur les falaises",
+      "Village de Dingli",
+      "Vue sur Filfla",
+      "Coucher de soleil sur les falaises",
+      "Côte rocheuse",
+      "Plaine voisine",
+      "Murs rocheux naturels",
+      "Oiseaux vivant sur les falaises",
+      "Nuit sur les Dingli Cliffs"
+    ],
+    "viewAll": "Voir sur Google Maps",
+    "showAll": "Voir toutes les photos",
+    "showLess": "Voir moins"
+  },
+  "reviews": {
+    "title": "Avis des visiteurs",
+    "declaration": "Les avis peuvent être consultés via Google Maps.",
+    "moreReviews": "Voir plus d'avis sur Google Maps",
+    "items": [
+      {
+        "name": "John C.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Endroit incroyable ! Le point le plus haut de Malte avec des vues spectaculaires. Je recommande une visite au coucher du soleil."
+      },
+      {
+        "name": "Mary G.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Y suis allée avec mes parents et c'était excellent. Endroit calme et relaxant, parfait pour une visite en famille."
+      },
+      {
+        "name": "David P.",
+        "rating": 4,
+        "date": "2026-04-05",
+        "text": "Très bel endroit pour se promener. Les vues sont superbes. J'ai seulement eu un peu de mal à trouver une place de parking le week-end."
+      },
+      {
+        "name": "Helen S.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "Lors d'un séjour à Malte, c'est l'une des meilleures attractions naturelles à ne pas manquer. Les arbres et la mer sont très romantiques."
+      },
+      {
+        "name": "Mark A.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Y suis venu pour l'observation des étoiles et c'était une expérience unique. Aucun bruit de ville, seulement le ciel et la mer."
+      },
+      {
+        "name": "Claire B.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Endroit parfait pour un pique-nique de week-end. Prenez à manger à proximité et profitez de la vue."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Localisation sur la carte",
+    "subtitle": "V92P+V45, Ħad-Dingli, Malte",
+    "openMaps": "Voir sur Google Maps"
+  },
+  "footer": {
+    "brandName": "Dingli Cliffs",
+    "brandSubtitle": "Attraction naturelle · Malte",
+    "rights": "© 2026 Projet indépendant de recherche touristique · Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Paramètres des cookies",
+    "officialResourcesTitle": "Ressources & informations officielles",
+    "officialLinks": {
+      "era": "Malta Environment & Resources Authority",
+      "visitmalta": "Malta Tourism Authority",
+      "dingli": "Dingli Local Council",
+      "natura2000": "Natura 2000 Network",
+      "nicpmi": "NICPMI Cultural Inventory",
+      "pa": "Planning Authority Malta"
+    },
+    "disclaimer": "Ce site web est un projet d'information touristique indépendant géré par des tiers. Nous ne sommes affiliés ni au gouvernement local ni à aucune autre agence officielle."
+  },
+  "officialManagement": {
+    "title": "À propos des Dingli Cliffs",
+    "text": "Les Dingli Cliffs sont gérées et protégées par l'Autorité pour l'environnement et les ressources (ERA) de Malte. La zone est inscrite comme site protégé dans le catalogue national et la liste Natura 2000."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : mai 2026",
+    "sections": [
+      {
+        "heading": "Collecte d'informations",
+        "content": "Lorsque vous visitez notre site web, nous pouvons collecter automatiquement des informations de base sur votre appareil, votre navigateur et votre comportement de navigation afin d'offrir une meilleure expérience utilisateur. Ces informations ne contiennent pas votre identité personnelle."
+      },
+      {
+        "heading": "Utilisation des cookies",
+        "content": "Nous utilisons des cookies pour analyser le trafic du site et optimiser le contenu. Vous pouvez gérer vos préférences à tout moment via l'option Paramètres des cookies en bas de notre site."
+      },
+      {
+        "heading": "Sécurité et protection des données",
+        "content": "Nous nous engageons à protéger la sécurité de vos données privées et ne vendrons, ne louerons ni n'échangerons vos données de navigation avec des organisations commerciales tierces."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : mai 2026",
+    "sections": [
+      {
+        "heading": "Contenu et utilisation du site",
+        "content": "Ce site web fournit des informations de voyage, de transport et historiques sur les Dingli Cliffs. Tout le contenu est donné à titre indicatif. Les horaires d'ouverture et les informations sur l'attraction peuvent changer à tout moment ; veuillez vous référer aux annonces officielles."
+      },
+      {
+        "heading": "Propriété intellectuelle",
+        "content": "Les textes, images et designs de ce site web sont protégés par le droit d'auteur. Sans autorisation écrite explicite, personne ne peut utiliser le contenu du site à des fins commerciales."
+      },
+      {
+        "heading": "Avertissement",
+        "content": "Nous nous efforçons d'assurer l'exactitude et l'actualité des informations, mais nous n'assumons aucune responsabilité légale pour les retards de voyage ou les pertes causés directement ou indirectement par l'utilisation des informations fournies sur ce site."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Paramètres des cookies",
+    "description": "Gérez vos préférences en matière de cookies.",
+    "essential": {
+      "title": "Cookies essentiels",
+      "description": "Nécessaires au fonctionnement de base du site et ne peuvent être désactivés.",
+      "badge": "Toujours actifs"
+    },
+    "analytics": {
+      "title": "Analyse",
+      "description": "Nous aident à comprendre le comportement des visiteurs et à améliorer le site."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilisés pour le suivi inter-sites et la diffusion d'annonces personnalisées."
+    },
+    "save": "Enregistrer les préférences",
+    "saved": "Préférences enregistrées !"
+  }
+}

@@ -25,6 +25,8 @@ export async function generateMetadata({
     es: 'es_ES',
     pl: 'pl_PL',
     de: 'de_DE',
+    fr: 'fr_FR',
+    nl: 'nl_NL',
   };
 
   const languages: Record<string, string> = {};

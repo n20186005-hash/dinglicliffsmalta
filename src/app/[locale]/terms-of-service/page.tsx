@@ -1,6 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
+import { buildAlternates } from '@/lib/seo';
 
 export async function generateMetadata({
   params,
@@ -8,26 +9,9 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://dinglicliffsmalta.com';
-  const zhUrl = `${baseUrl}/zh/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const mtUrl = `${baseUrl}/mt/terms-of-service`;
-  const itUrl = `${baseUrl}/it/terms-of-service`;
-  const esUrl = `${baseUrl}/es/terms-of-service`;
-  const selfUrl = `${baseUrl}/${locale}/terms-of-service`;
 
   return {
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'mt': mtUrl,
-        'it': itUrl,
-        'es': esUrl,
-        'x-default': enUrl,
-      },
-    },
+    alternates: buildAlternates('/terms-of-service', locale),
   };
 }
 

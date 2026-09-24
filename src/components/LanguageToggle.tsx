@@ -12,6 +12,8 @@ const labels: Record<string, string> = {
   es: 'Español',
   pl: 'Polski',
   de: 'Deutsch',
+  fr: 'Français',
+  nl: 'Nederlands',
 };
 
 export default function LanguageToggle() {
