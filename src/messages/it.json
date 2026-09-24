@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Dingli Cliffs – Mdina, Malta",
-    "description": "Guida completa alle Dingli Cliffs a Malta. Scopri il luogo, le vista, l'accesso e le informazioni per i visitatori."
+    "title": "Dingli Cliffs, Malta — Il Punto Piu Alto e Il Miglior Tramonto",
+    "description": "Visita Dingli Cliffs (Ħad-Dingli), il punto più alto di Malta a 253m. Viste panoramiche sul Mediterraneo, tramonti, accesso gratuito, linee di autobus e ristoranti locali."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "Dingli Cliffs",
     "subtitle": "Attrazione Naturale · Malta",
     "rating": "4.5",
-    "reviewCount": "9,185 recensioni",
+    "reviewCount": "9,701 recensioni",
     "type": "Scogliere Naturali",
     "openMaps": "Visualizza su Google Maps",
     "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
@@ -77,11 +77,11 @@
     "city": "Città / Villaggio",
     "cityValue": "Dingli (vicino a Mdina)",
     "googleRating": "Valutazione Google",
-    "googleRatingValue": "4.5 (9,185)",
+    "googleRatingValue": "4.5 (9,701)",
     "address": "Indirizzo",
-    "addressValue": "V92P+V45, Dingli, Malta",
+    "addressValue": "V92P+V45, Ħad-Dingli, Malta",
     "plusCode": "Plus Code",
-    "plusCodeValue": "V92P+V45 Dingli, Malta",
+    "plusCodeValue": "V92P+V45 Ħad-Dingli, Malta",
     "phone": "Telefono",
     "phoneValue": "+356 2145 6060"
   },
@@ -228,7 +228,7 @@
   },
   "mapSection": {
     "title": "Posizione sulla Mappa",
-    "subtitle": "V92P+V45, Dingli, Malta",
+    "subtitle": "V92P+V45, Ħad-Dingli, Malta",
     "openMaps": "Visualizza su Google Maps"
   },
   "footer": {

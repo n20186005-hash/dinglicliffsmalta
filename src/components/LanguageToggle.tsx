@@ -10,6 +10,8 @@ const labels: Record<string, string> = {
   mt: 'Malti',
   it: 'Italiano',
   es: 'Español',
+  pl: 'Polski',
+  de: 'Deutsch',
 };
 
 export default function LanguageToggle() {

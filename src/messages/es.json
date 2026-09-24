@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Acantilados di Dingli (Dingli Cliffs) – Mdina, Malta",
-    "description": "Guía de viaje completa a los Acantilados de Dingli en Malta. Descubra esta atracción natural, incluyendo ubicación, vistas, acceso e información para visitantes."
+    "title": "Acantilados de Dingli, Malta — El Punto Más Alto y El Mejor Atardecer",
+    "description": "Visita los Acantilados de Dingli (Ħad-Dingli), el punto más alto de Malta a 253m. Vistas panorámicas del Mediterráneo, atardeceres, acceso gratuito, rutas de autobús y comida local."
   },
   "header": {
     "home": "Inicio",
@@ -14,7 +14,7 @@
     "title": "Acantilados de Dingli",
     "subtitle": "Atracción Natural · Malta",
     "rating": "4.5",
-    "reviewCount": "9,185 opiniones",
+    "reviewCount": "9,701 opiniones",
     "type": "Acantilados Naturales",
     "openMaps": "Ver en Google Maps",
     "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
@@ -77,11 +77,11 @@
     "city": "Ciudad / Pueblo",
     "cityValue": "Dingli (cerca de Mdina)",
     "googleRating": "Valoración de Google",
-    "googleRatingValue": "4.5 (9,185)",
+    "googleRatingValue": "4.5 (9,701)",
     "address": "Dirección",
-    "addressValue": "V92P+V45, Dingli, Malta",
+    "addressValue": "V92P+V45, Ħad-Dingli, Malta",
     "plusCode": "Plus Code",
-    "plusCodeValue": "V92P+V45 Dingli, Malta",
+    "plusCodeValue": "V92P+V45 Ħad-Dingli, Malta",
     "phone": "Teléfono",
     "phoneValue": "+356 2145 6060"
   },
@@ -228,7 +228,7 @@
   },
   "mapSection": {
     "title": "Ubicación en el Mapa",
-    "subtitle": "V92P+V45, Dingli, Malta",
+    "subtitle": "V92P+V45, Ħad-Dingli, Malta",
     "openMaps": "Ver en Google Maps"
   },
   "footer": {

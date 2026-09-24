@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Dingli Cliffs – Mdina, Malta",
-    "description": "Gwida sħiħa għal Dingli Cliffs f'Malta. Sikta l-post, il-veduti, l-aċċess, u l-informazzjoni għall-viżitanti."
+    "title": "Dingli Cliffs, Malta — L-ogħla Punt u L-aqwa Post għat-Tempesta tax-Xemx",
+    "description": "Żur Dingli Cliffs (Ħad-Dingli), l-ogħla punt f'Malta sa 253m. Veduti panoramiki tal-Mediterran, postijiet għat-tempesta tax-xemx, aċċess b'xejn, linji tal-bus u ikel lokali."
   },
   "header": {
     "home": "Id-Dar",
@@ -14,7 +14,7 @@
     "title": "Dingli Cliffs",
     "subtitle": "Attrazzjoni Naturali · Malta",
     "rating": "4.5",
-    "reviewCount": "9,185 fehmiet",
+    "reviewCount": "9,701 fehmiet",
     "type": "Mogħdiet Naturali",
     "openMaps": "Ara fuq Google Maps",
     "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
@@ -77,11 +77,11 @@
     "city": "Belt / Raħal",
     "cityValue": "Dingli (ħdejn Mdina)",
     "googleRating": "Rating fuq Google",
-    "googleRatingValue": "4.5 (9,185)",
+    "googleRatingValue": "4.5 (9,701)",
     "address": "Indirizz",
-    "addressValue": "V92P+V45, Dingli, Malta",
+    "addressValue": "V92P+V45, Ħad-Dingli, Malta",
     "plusCode": "Plus Code",
-    "plusCodeValue": "V92P+V45 Dingli, Malta",
+    "plusCodeValue": "V92P+V45 Ħad-Dingli, Malta",
     "phone": "Telefon",
     "phoneValue": "+356 2145 6060"
   },
@@ -228,7 +228,7 @@
   },
   "mapSection": {
     "title": "Pożizzjoni fuq il-Mappa",
-    "subtitle": "V92P+V45, Dingli, Malta",
+    "subtitle": "V92P+V45, Ħad-Dingli, Malta",
     "openMaps": "Ara fuq Google Maps"
   },
   "footer": {

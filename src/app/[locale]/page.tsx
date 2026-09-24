@@ -13,6 +13,7 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
+import AttractionJsonLd from '@/components/AttractionJsonLd';
 
 export default async function HomePage({
   params,
@@ -40,6 +41,7 @@ export default async function HomePage({
         <MapEmbed />
       </main>
       <Footer />
+      <AttractionJsonLd locale={locale} />
     </>
   );
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "丁利悬崖 (Dingli Cliffs) – 姆迪纳, 马耳他",
-    "description": "丁利悬崖 (Dingli Cliffs) 完整旅游指南。了解这个马耳他自然景观，包括位置、景色、交通和游览信息。"
+    "title": "丁利悬崖（马耳他）— 马耳他最高点与绝美日落观景点",
+    "description": "探索马耳他最高点丁利悬崖（Ħad-Dingli，海拔253米）。壮阔地中海全景、绝美日落、免费入场、巴士路线与在地美食，规划您的行程。"
   },
   "header": {
     "home": "首页",
@@ -14,7 +14,7 @@
     "title": "丁利悬崖",
     "subtitle": "自然景观 · 马耳他",
     "rating": "4.5",
-    "reviewCount": "9,185 条评价",
+    "reviewCount": "9,701 条评价",
     "type": "天然悬崖",
     "openMaps": "在Google地图上查看位置",
     "mapsLink": "https://maps.app.goo.gl/7kurr3qMaSgWhNA59"
@@ -77,11 +77,11 @@
     "city": "城市 / 村庄",
     "cityValue": "丁利 (Dingli，靠近姆迪纳)",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.5 (9,185)",
+    "googleRatingValue": "4.5 (9,701)",
     "address": "地址",
-    "addressValue": "V92P+V45, Dingli, Malta",
+    "addressValue": "V92P+V45, Ħad-Dingli, Malta",
     "plusCode": "Plus Code",
-    "plusCodeValue": "V92P+V45 Dingli, Malta",
+    "plusCodeValue": "V92P+V45 Ħad-Dingli, Malta",
     "phone": "联系电话",
     "phoneValue": "+356 2145 6060"
   },
@@ -228,7 +228,7 @@
   },
   "mapSection": {
     "title": "地图位置",
-    "subtitle": "V92P+V45, Dingli, Malta",
+    "subtitle": "V92P+V45, Ħad-Dingli, Malta",
     "openMaps": "在Google地图上查看位置"
   },
   "footer": {
